@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="giskardlogo" src="readme/Logo_full_darkgreen.png">
+  <img width="500" alt="giskardlogo" src="readme/correct_logo.png">
 </p>
 <h1 align="center" weight='300' >Open-Source CI/CD platform for ML teams</h1>
 <h3 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h3>
@@ -28,13 +28,19 @@
 <br />
 
 ## About Giskard
-Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
+Giskard creates interfaces for humans to inspect AI models. 
+
+1. You can play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the combination that generated the faulty result. 
+It is  open-source & self-hosted.
+2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time. 
 <br/>
-<br />⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
-🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research.
-🧑‍🔧 **Automate** - Protect your ML models against the risk of regressions, drift and bias.
+- ⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
+- 🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research.
+- 🤖 **Automate** - Protect your ML models against the risk of regressions, drift and bias.
 
-
+<p align="center">
+  <img width="500" alt="giskardlogo" src="readme/perturbation.png">
+</p>
 
 
 ---
