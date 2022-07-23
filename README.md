@@ -28,18 +28,23 @@
 <br />
 
 ## About Giskard
-Giskard creates interfaces for humans to inspect AI models. 
+Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
 
-1. You can play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the combination that generated the faulty result. 
-It is  open-source & self-hosted.
-2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time. 
+1. Giskard allows to play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
+2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time. 💫
+3. And of course, it integrates seemlessly with your favorite tools.⤵️
+<p align="center">
+  <img src="readme/tools.png">
+</p>
 <br/>
-- ⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
-- 🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research.
-- 🤖 **Automate** - Protect your ML models against the risk of regressions, drift and bias.
+
+
+⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
+🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research. <br/>
+🤖 **Automate** - Protect your ML models against the risk of regressions, drift and bias.<br/>
 
 <p align="center">
-  <img width="500" alt="giskardlogo" src="readme/perturbation.png">
+  <img src="readme/perturbation.png">
 </p>
 
 
