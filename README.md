@@ -63,11 +63,8 @@ Click the image below to start the demo:
 ```sh
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
-docker-compose up -d        -> Access at http://localhost:19000 with 
-default login / password: admin / admin
+docker-compose up -d        -> Access at http://localhost:19000 with  login / password: admin / admin
 ```
-
-Yes, that's all! Then start inspecting & testing your ML models at  http://localhost:19000/ with default login / password: **admin** / **admin**
 
 For more details, refer to the guides below:
 1. <a href="guides/installation.md"><b>installation.md</b></a>
@@ -77,7 +74,6 @@ For more details, refer to the guides below:
 
 ### 🚀 Workflow
 1. **Validate your ML model by collecting feedback**
-
 Easy upload for any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
 
 <p align="center">
