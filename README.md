@@ -73,24 +73,19 @@ For more details, refer to the guides below:
 
 
 ### 🚀 Workflow
-1. **Validate your ML model by collecting feedback**
-Easy upload for any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
+1. **Validate your ML model by collecting feedback:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
 
 <p align="center">
   <img width='600' src="readme/Give_feedback.jpeg">
 </p>
 
-2. **Discuss and analyze feedback**
-
-Enter feedback directly within Giskard and discuss it with your team. 
+2. **Discuss and analyze feedback:** Enter feedback directly within Giskard and discuss it with your team. 
 
 <p align="center">
   <img width='600' src="readme/feedback1.png">
 </p>
 
-3. **Turn feedback into tests**
-
-Automate tests in any of these categories: 
+3. **Turn feedback into tests:** Automate tests in any of these categories
 <details>
   <summary><b>Metamorphic testing</b></summary>
 Test if your model outputs behave as expected before and after input perturbation
