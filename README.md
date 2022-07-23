@@ -75,20 +75,23 @@ For more details, refer to the guides below:
 3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
 
 
-### Workflow
+### 🚀 Workflow
 1. **Validate your ML model by collecting feedback**
+<br/>
 Easy upload for any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
 <p align="center">
   <img width='600' src="readme/Give_feedback.jpeg">
 </p>
 
 2. **Discuss and analyze feedback**
+<br/>
 Enter feedback directly within Giskard and discuss it with your team. 
 <p align="center">
   <img width='600' src="readme/feedback1.png">
 </p>
 
-3. Turn feedback into tests
+3. **Turn feedback into tests**
+<br/>
 Automate tests in any of these categories: 
 <details>
   <summary><b>Metamorphic testing</b></summary>
@@ -107,63 +110,18 @@ Test if your features don't drift between the reference and actual dataset</deta
 <details>
   <summary><b>Prediction drift testing</b></summary>
 Test the absence of concept drift inside your model</details>
+<p align="center">
+  <img width='600' src="readme/test1.png">
+</p>
 
 
+## Guides: Jump right in
+Follow our handy guides to get started on the basics as quickly as possible:
 
-
-
-3. Turn feedback into tests
-
-<h3>Upload your model</h3>
-
-  <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85">
-         <img width='500' alt="Interactive demo" src="readme/upload.png">
-      </a>
-<br/>
-  <br/>
-  <br/>
-  
-  Easy upload for any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. </br>
-[👉 Documentation](https://docs.giskard.ai/start/guides/upload-your-model)
-
-<h3>Collect feedback on your model</h3>
-  
-  <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85">
-         <img width='600' alt="Interactive demo" src="readme/feedback.png">
-      </a>
-<br/>
-  <br/>
-  <br/>
-  
-  Improve ML models with business stakeholders in no time. </br>
-[👉 Documentation](https://docs.giskard.ai/start/guides/review-your-model)
-  
- <h3>Get automated test suites in seconds</h3>
-  
-  <a href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85">
-         <img width='600' alt="Interactive demo" src="readme/test.png">
-      </a>
-<br/>
-   <br/>
-   <br/>
-  
-
-  Exhaustive test suites, backed by  State-of-the-Art ML research.</br>
-  [👉 Documentation](https://docs.giskard.ai/start/guides/create-tests-from-your-review)
-  
-   <h3>Deploy tests in your CI/CD Pipeline</h3>
-  
-  <a href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85">
-         <img width='600' alt="Deploy tests in CI/CD Pipeline" src="readme/pipeline.png">
-      </a>
-<br/>
-   <br/>
-   <br/>
-  
-
-  Protect your ML models against the risk of regressions, drift and bias.</br>
-  [👉 Documentation](https://docs.giskard.ai/start/)
-
+1. <a href="guides/installation.md"><b>installation.md</b></a>
+2. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
+3. <a href="guides/review-your-model.md"><b>review-your-model.md</b></a>
+4. <a href="guides/create-tests-from-your-review.md"><b>create-tests-from-your-review.md</b></a>
 
 
 
