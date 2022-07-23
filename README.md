@@ -17,6 +17,14 @@
     <img alt="Giskard on Discord" src="https://img.shields.io/discord/939190303397666868?label=Discord"/>
   </a>
 </p>
+<h3 align="center">
+   <a href="https://docs.giskard.ai/"><b>Documentation</b></a> &bull;
+   <a href="https://docs.giskard.ai/start/"><b>Getting Started</b></a> &bull;
+   <a href="https://docs.giskard.ai/start/guides/upload-your-model"><b>Update Model & Data</b></a> &bull; 
+   <a href="https://www.giskard.ai/knowledge-categories/blog"><b>Blog</b></a> &bull;  
+  <a href="https://gisk.ar/discord"><b>Discord Community</b></a> &bull;
+  <a href="https://www.giskard.ai/about#advisors"><b>Advisors</b></a>
+ </h3>
 <br />
 
 **_Why Giskard?_**
@@ -24,19 +32,6 @@
 ⚡ **Collaborate faster** with **feedback** from business stakeholders.<br/>
 🧑‍🔧 **Deploy automated tests** to eliminate regressions, errors & biases.
 
----
-
-**Open Source Project Website:** https://giskard.ai/
-
-**Get started with the Documentation:** https://docs.giskard.ai/
-
-**Documentation Source Code:** https://github.com/Giskard-AI/documentation
-
-**Join our User Community:** https://gisk.ar/discord
-
-<a href="https://discord.com/invite/ABvfpbu69R">
-         <img alt="Discord" src="readme/Discord.png">
-      </a>
 
 ---
 
