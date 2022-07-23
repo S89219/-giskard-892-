@@ -20,15 +20,15 @@
 <h3 align="center">
    <a href="https://docs.giskard.ai/"><b>Documentation</b></a> &bull;
    <a href="https://docs.giskard.ai/start/"><b>Getting Started</b></a> &bull;
-   <a href="https://docs.giskard.ai/start/guides/upload-your-model"><b>Update Model & Data</b></a> &bull; 
+   <a href="https://docs.giskard.ai/start/guides/upload-your-model"><b>Upload Model & Data</b></a> &bull; 
    <a href="https://www.giskard.ai/knowledge-categories/blog"><b>Blog</b></a> &bull;  
   <a href="https://gisk.ar/discord"><b>Discord Community</b></a> &bull;
   <a href="https://www.giskard.ai/about#advisors"><b>Advisors</b></a>
  </h3>
 <br />
 
-**_Why Giskard?_**
-
+## About Giskard
+Giskard is an open-source and self-hosted tool that creates interfaces for humans to inspect AI models.
 ⚡ **Collaborate faster** with **feedback** from business stakeholders.<br/>
 🧑‍🔧 **Deploy automated tests** to eliminate regressions, errors & biases.
 
@@ -117,10 +117,6 @@ http://localhost:19000 with default login / password: **admin** / **admin**
 
 
 <br/>
-
-<h2>Star history</h2>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Giskard-AI/giskard&type=Date)](https://star-history.com/#Giskard-AI/giskard&Date)
 
 <h2>How to contribute</h2>
 
