@@ -32,19 +32,19 @@ Giskard creates interfaces for humans to inspect AI models. It is  open-source &
 
 1. Giskard allows to play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
 2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time. 💫
-3. And of course, it integrates seemlessly with your favorite tools.⤵️
+3. And of course, it integrates seemlessly with your favorite tools. ⤵️ <br/>
 <p align="center">
-  <img src="readme/tools.png">
+  <img width='600' src="readme/tools.png">
 </p>
 <br/>
 
-
+## Why use Giskard
 ⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
 🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research. <br/>
 🤖 **Automate** - Protect your ML models against the risk of regressions, drift and bias.<br/>
 
 <p align="center">
-  <img src="readme/perturbation.png">
+  <img width='600' src="readme/perturbation.png" radius = 8px>
 </p>
 
 
@@ -56,7 +56,7 @@ Giskard creates interfaces for humans to inspect AI models. It is  open-source &
 
 Click the image below to start the demo:
 
-<a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85">
+<a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
          <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
       </a>
 <br/>
