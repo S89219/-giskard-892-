@@ -31,7 +31,7 @@
 Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
 
 1. Giskard allows to play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
-2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time. 💫
+2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time.
 3. And of course, it integrates seemlessly with your favorite tools. ⤵️ <br/>
 <p align="center">
   <img width='600' src="readme/tools.png">
@@ -47,13 +47,7 @@ Giskard creates interfaces for humans to inspect AI models. It is  open-source &
   <img width='600' src="readme/perturbation.png" radius = 8px>
 </p>
 
-
----
-
-<br />
-
-<h2>Interactive demo</h2>
-
+## Interactive demo
 Click the image below to start the demo:
 
 <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
@@ -61,16 +55,16 @@ Click the image below to start the demo:
       </a>
 <br/>
 
-<h2>Product workflow</h2>
-
-<h3 >Installation</h3>
+## Getting Started with Giskard
+### 🚀 Installation
 
 **Requirements:** `git`, `docker` and `docker-compose`
 
-```shell
+```sh
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
 docker-compose up -d
+docker-compose up -d        -> Access at http://localhost:19000 with default login / password: admin / admin
 ```
 
 After the application is started you can access at:
