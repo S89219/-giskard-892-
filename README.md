@@ -77,21 +77,23 @@ For more details, refer to the guides below:
 
 ### 🚀 Workflow
 1. **Validate your ML model by collecting feedback**
-<br/>
+
 Easy upload for any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
+
 <p align="center">
   <img width='600' src="readme/Give_feedback.jpeg">
 </p>
 
 2. **Discuss and analyze feedback**
-<br/>
+
 Enter feedback directly within Giskard and discuss it with your team. 
+
 <p align="center">
   <img width='600' src="readme/feedback1.png">
 </p>
 
 3. **Turn feedback into tests**
-<br/>
+
 Automate tests in any of these categories: 
 <details>
   <summary><b>Metamorphic testing</b></summary>
@@ -110,6 +112,7 @@ Test if your features don't drift between the reference and actual dataset</deta
 <details>
   <summary><b>Prediction drift testing</b></summary>
 Test the absence of concept drift inside your model</details>
+
 <p align="center">
   <img width='600' src="readme/test1.png">
 </p>
@@ -124,11 +127,11 @@ Follow our handy guides to get started on the basics as quickly as possible:
 4. <a href="guides/create-tests-from-your-review.md"><b>create-tests-from-your-review.md</b></a>
 
 
-
-<br/>
-
-<h2>How to contribute</h2>
+## How to contribute
 
 We welcome contributions from the Machine Learning community!
 
 Read this [guide](CONTRIBUTING.md) to get started.
+
+## Like what we're doing?
+Leave us a 🌟, it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools ! 🎉
