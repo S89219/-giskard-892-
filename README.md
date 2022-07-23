@@ -63,14 +63,56 @@ Click the image below to start the demo:
 ```sh
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
-docker-compose up -d
-docker-compose up -d        -> Access at http://localhost:19000 with default login / password: admin / admin
+docker-compose up -d        -> Access at http://localhost:19000 with 
+default login / password: admin / admin
 ```
 
-After the application is started you can access at:
+Yes, that's all! Then start inspecting & testing your ML models at  http://localhost:19000/ with default login / password: **admin** / **admin**
 
-http://localhost:19000 with default login / password: **admin** / **admin**
+For more details, refer to the guides below:
+1. <a href="guides/installation.md"><b>installation.md</b></a>
+2. <a href="guides/configuration.md"><b>configuration.md</b></a>
+3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
 
+
+### Workflow
+1. **Validate your ML model by collecting feedback**
+Easy upload for any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
+<p align="center">
+  <img width='600' src="readme/Give_feedback.jpeg">
+</p>
+
+2. **Discuss and analyze feedback**
+Enter feedback directly within Giskard and discuss it with your team. 
+<p align="center">
+  <img width='600' src="readme/feedback1.png">
+</p>
+
+3. Turn feedback into tests
+Automate tests in any of these categories: 
+<details>
+  <summary><b>Metamorphic testing</b></summary>
+Test if your model outputs behave as expected before and after input perturbation
+</details>
+<details>
+  <summary><b>Heuristics testing</b></summary>
+Test if your model output respect some business rules
+</details>
+<details>
+  <summary><b>Performance testing</b></summary>
+Test if your model performance is sufficiently high within some particular data slices</details>
+<details>
+  <summary><b>Data drift testing</b></summary>
+Test if your features don't drift between the reference and actual dataset</details>
+<details>
+  <summary><b>Prediction drift testing</b></summary>
+Test the absence of concept drift inside your model</details>
+
+
+
+
+
+3. Turn feedback into tests
 
 <h3>Upload your model</h3>
 
