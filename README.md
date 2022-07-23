@@ -2,7 +2,7 @@
   <img width="500" alt="giskardlogo" src="readme/Logo_full_darkgreen.png">
 </p>
 <h1 align="center" weight='300' >Open-Source CI/CD platform for ML teams</h1>
-<h3 align="center" weight='300' >Deliver ML products, better & faster</h3>
+<h3 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h3>
 <p align="center">
    <a href="https://github.com/Giskard-AI/giskard/releases">
       <img alt="GitHub release" src="https://img.shields.io/github/v/release/Giskard-AI/giskard">
@@ -28,9 +28,13 @@
 <br />
 
 ## About Giskard
-Giskard is an open-source and self-hosted tool that creates interfaces for humans to inspect AI models.
-⚡ **Collaborate faster** with **feedback** from business stakeholders.<br/>
-🧑‍🔧 **Deploy automated tests** to eliminate regressions, errors & biases.
+Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
+<br/>
+<br />⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
+🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research.
+🧑‍🔧 **Automate** - Protect your ML models against the risk of regressions, drift and bias.
+
+
 
 
 ---
