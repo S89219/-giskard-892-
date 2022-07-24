@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="giskardlogo" src="readme/correct_logo.png">
+  <img alt="giskardlogo" src="readme/correct_logo.png">
 </p>
 <h1 align="center" weight='300' >Open-Source CI/CD platform for ML teams</h1>
 <h3 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h3>
@@ -33,7 +33,7 @@ Giskard creates interfaces for humans to inspect AI models. It is  open-source &
 1. Giskard allows to play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
 2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time.
 3. And of course, it integrates seemlessly with your favorite tools. ⤵️ <br/>
-<p align="center">
+<p>
   <img width='600' src="readme/tools.png">
 </p>
 <br/>
@@ -63,17 +63,17 @@ Click the image below to start the demo:
 ```sh
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
-docker-compose up -d        -> Access at http://localhost:19000 with  login / password: admin / admin
+docker-compose up -d        -> Access at http://localhost:19000 with login/password: admin/admin
 ```
 
-For more details, refer to the guides below:
+Yes, thats' it! For more details, refer to the guides below:
 1. <a href="guides/installation.md"><b>installation.md</b></a>
 2. <a href="guides/configuration.md"><b>configuration.md</b></a>
 3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
 
 
-### 🚀 Workflow
-1. **Validate your ML model by collecting feedback:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc & test its performance. 
+### 🏄🏽‍♂️ Workflow
+1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. Play with the model to test its performance. 
 
 <p align="center">
   <img width='600' src="readme/Give_feedback.jpeg">
@@ -119,7 +119,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 
 ## How to contribute
-
 We welcome contributions from the Machine Learning community!
 
 Read this [guide](CONTRIBUTING.md) to get started.
