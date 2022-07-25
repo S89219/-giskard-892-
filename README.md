@@ -43,7 +43,7 @@ Giskard creates interfaces for humans to inspect AI models. It is  open-source &
 🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research. <br/>
 🤖 **Automate** - Protect your ML models against the risk of regressions, drift and bias.<br/>
 
-<p align="center">
+<p>
   <img width='600' src="readme/perturbation.png" radius = 8px>
 </p>
 
@@ -63,10 +63,12 @@ Click the image below to start the demo:
 ```sh
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
-docker-compose up -d        -> Access at http://localhost:19000 with login/password: admin/admin
+docker-compose up -d
 ```
 
-Yes, thats' it! For more details, refer to the guides below:
+Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
+
+ For more details, refer to the guides below:
 1. <a href="guides/installation.md"><b>installation.md</b></a>
 2. <a href="guides/configuration.md"><b>configuration.md</b></a>
 3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
@@ -85,14 +87,19 @@ Yes, thats' it! For more details, refer to the guides below:
   <img width='600' src="readme/feedback1.png">
 </p>
 
-3. **Turn feedback into tests:** Automate tests in any of these categories
+3. **Turn feedback into tests:** Automate tests in any of the categories below.
+
+<p align="center">
+  <img width='600' src="readme/test1.png">
+</p>
+
 <details>
   <summary><b>Metamorphic testing</b></summary>
 Test if your model outputs behave as expected before and after input perturbation
 </details>
 <details>
   <summary><b>Heuristics testing</b></summary>
-Test if your model output respect some business rules
+Test if your model output respects some business rules
 </details>
 <details>
   <summary><b>Performance testing</b></summary>
@@ -104,9 +111,7 @@ Test if your features don't drift between the reference and actual dataset</deta
   <summary><b>Prediction drift testing</b></summary>
 Test the absence of concept drift inside your model</details>
 
-<p align="center">
-  <img width='600' src="readme/test1.png">
-</p>
+
 
 
 ## Guides: Jump right in
