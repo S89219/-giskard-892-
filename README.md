@@ -22,7 +22,7 @@
    <a href="https://www.giskard.ai/knowledge-categories/?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readmeblog"><b>Blog</b></a> &bull;  
   <a href="https://www.giskard.ai/?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readmeblog"><b>Website</b></a> &bull;
   <a href="https://gisk.ar/discord"><b>Discord Community</b></a> &bull;
-  <a href="https://www.giskard.ai/about#advisors//?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readme"><b>Advisors</b></a>
+  <a href="https://www.giskard.ai/about#advisors/?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readme"><b>Advisors</b></a>
  </h3>
 <br />
 
@@ -61,7 +61,7 @@ And of course, Giskard works with any model, any environment and integrates seem
 </p>
 
 # Interactive demo
-Click the image below to start the demo:
+Play with Giskard before installing! Click the image below to start the demo:
 
 <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
          <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
@@ -142,7 +142,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 # How to contribute
 We welcome contributions from the Machine Learning community!
 
-Read this [guide](CONTRIBUTING.md) to get started.
+Read this [guide](CONTRIBUTING.md){:target="_blank" rel="noopener"} to get started.
 
 # Like what we're doing?
 🌟 [Leave us a star](https://github.com/ManeSah/giskard), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
