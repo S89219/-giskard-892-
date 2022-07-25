@@ -60,37 +60,7 @@ And of course, Giskard works with any model, any environment and integrates seem
   <img width='600' src="readme/perturbation.png" radius = 8px>
 </p>
 
-# Interactive demo
-Play with Giskard before installing! Click the image below to start the demo:
-
-<a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
-         <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
-      </a>
-<br/>
-
-# Getting Started with Giskard
-## 🚀 Installation
-
-**Requirements:** `git`, `docker` and `docker-compose`
-
-```sh
-pip istall giskard
-
-git clone https://github.com/Giskard-AI/giskard.git
-cd giskard
-docker-compose up -d
-```
-
-Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
-
- For more details, refer to the guides below:
-1. <a href="guides/installation.md"><b>installation.md</b></a>
-2. <a href="guides/configuration.md"><b>configuration.md</b></a>
-3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
-
-<br/>
-
-## 🏄🏽‍♂️ Workflow
+# 🏄🏽‍♂️ Workflow
 1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. Play with the model to test its performance. 
 
 <p align="center">
@@ -128,9 +98,37 @@ Test if your features don't drift between the reference and actual dataset</deta
 Test the absence of concept drift inside your model</details>
 
 
+# Interactive demo
+Play with Giskard before installing! Click the image below to start the demo:
 
+<a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
+         <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
+      </a>
+<br/>
 
-# Guides: Jump right in
+# Getting Started with Giskard
+## 🚀 Installation
+
+**Requirements:** `git`, `docker` and `docker-compose`
+
+```sh
+pip istall giskard
+
+git clone https://github.com/Giskard-AI/giskard.git
+cd giskard
+docker-compose up -d
+```
+
+Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
+
+ For more details, refer to the guides below:
+1. <a href="guides/installation.md"><b>installation.md</b></a>
+2. <a href="guides/configuration.md"><b>configuration.md</b></a>
+3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
+
+<br/>
+
+## 🥋 Guides: Jump right in
 Follow our handy guides to get started on the basics as quickly as possible:
 
 1. <a href="guides/installation.md"><b>installation.md</b></a>
@@ -142,7 +140,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 # How to contribute
 We welcome contributions from the Machine Learning community!
 
-Read this [guide](CONTRIBUTING.md){:target="_blank" rel="noopener"} to get started.
+Read this [guide](CONTRIBUTING.md) to get started.
 
 # Like what we're doing?
 🌟 [Leave us a star](https://github.com/ManeSah/giskard), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
