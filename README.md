@@ -43,8 +43,15 @@
 <br/>
 
 # Why use Giskard
-⚡ **Inspect** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
-🧑‍🔧 **Collaborate** - Exhaustive test suites, backed by State-of-the-Art ML research. <br/>
+### Inspect the model's performance
+- instantly see model's prediction** to a given set of feature values
+- change the values directly in Giskard and see the changed prediction
+- works with any type of models, datasets and environments. 
+<br/>
+
+### Collaborate with business stakeholders
+- Exhaustive test suites, backed by State-of-the-Art ML research. 
+- Collaborate with business stakeholders with direct feedback & discussion.<br/>
 🤖 **Automatically test & monitor** - Protect your ML models against the risk of regressions, drift and bias.<br/>
 
 <p>
@@ -80,6 +87,7 @@ Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
 3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
 
 <br/>
+
 ## 🏄🏽‍♂️ Workflow
 1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. Play with the model to test its performance. 
 
