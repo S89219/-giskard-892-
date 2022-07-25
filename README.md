@@ -2,7 +2,7 @@
   <img alt="giskardlogo" src="readme/correct_logo.png">
 </p>
 <h1 align="center" weight='300' >Open-Source CI/CD platform for ML teams</h1>
-<h2 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h2>
+<h3 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h3>
 <p align="center">
    <a href="https://github.com/Giskard-AI/giskard/releases">
       <img alt="GitHub release" src="https://img.shields.io/github/v/release/Giskard-AI/giskard">
@@ -28,15 +28,15 @@
 <br />
 
 # About Giskard
-Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
+- Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
 
-Giskard allows to **instantly see model's prediction** to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
+- Giskard allows to **instantly see model's prediction** to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
 
-Saw anything strange? Leave a **feedback** directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
+- Saw anything strange? Leave a **feedback** directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
 
-Additionally, Giskard enables you to create **test suites** on AI models. It provides presets of tests so that you design and execute your tests in no time.
+- Giskard enables you to create **test suites** on AI models. It provides presets of tests so that you design and execute your tests in no time.
 
-And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools. ⤵️ <br/>
+- And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools. ⤵️ <br/>
 <p>
   <img width='600' src="readme/tools.png">
 </p>
