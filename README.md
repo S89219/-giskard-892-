@@ -19,11 +19,10 @@
 </p>
 <h3 align="center">
    <a href="https://docs.giskard.ai/"><b>Documentation</b></a> &bull;
-   <a href="https://docs.giskard.ai/start/"><b>Getting Started</b></a> &bull;
-   <a href="https://docs.giskard.ai/start/guides/upload-your-model"><b>Upload Model & Data</b></a> &bull; 
-   <a href="https://www.giskard.ai/knowledge-categories/blog"><b>Blog</b></a> &bull;  
+   <a href="https://www.giskard.ai/knowledge-categories/?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readmeblog"><b>Blog</b></a> &bull;  
+  <a href="https://www.giskard.ai/?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readmeblog"><b>Website</b></a> &bull;
   <a href="https://gisk.ar/discord"><b>Discord Community</b></a> &bull;
-  <a href="https://www.giskard.ai/about#advisors"><b>Advisors</b></a>
+  <a href="https://www.giskard.ai/about#advisors//?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readme"><b>Advisors</b></a>
  </h3>
 <br />
 
@@ -34,7 +33,7 @@ Giskard allows to instantly see model's prediction to a given set of feature val
 
 Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
 
-And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools. ⤵️ <br/>
+And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools ⤵️ <br/>
 <p>
   <img width='600' src="readme/tools.png">
 </p>
