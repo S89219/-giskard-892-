@@ -2,7 +2,7 @@
   <img alt="giskardlogo" src="readme/correct_logo.png">
 </p>
 <h1 align="center" weight='300' >Open-Source CI/CD platform for ML teams</h1>
-<h3 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h3>
+<h2 align="center" weight='300' >Giskard creates interfaces for humans to inspect AI models</h2>
 <p align="center">
    <a href="https://github.com/Giskard-AI/giskard/releases">
       <img alt="GitHub release" src="https://img.shields.io/github/v/release/Giskard-AI/giskard">
@@ -27,27 +27,31 @@
  </h3>
 <br />
 
-## About Giskard
+# About Giskard
 Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
 
-1. Giskard allows to play with the model by changing examples, feature values, or generating local explanations. Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
-2. Additionally, Giskard enables you to create test suites on AI models. It provides presets of tests so that you design and execute your tests in no time.
-3. And of course, it integrates seemlessly with your favorite tools. ⤵️ <br/>
+Giskard allows to **instantly see model's prediction** to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
+
+Saw anything strange? Leave a **feedback** directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
+
+Additionally, Giskard enables you to create **test suites** on AI models. It provides presets of tests so that you design and execute your tests in no time.
+
+And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools. ⤵️ <br/>
 <p>
   <img width='600' src="readme/tools.png">
 </p>
 <br/>
 
-## Why use Giskard
-⚡ **Explore and Validate** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
-🧑‍🔧 **Test** - Exhaustive test suites, backed by State-of-the-Art ML research. <br/>
-🤖 **Automate** - Protect your ML models against the risk of regressions, drift and bias.<br/>
+# Why use Giskard
+⚡ **Inspect** -  Collaborate with business stakeholders with direct feedback & discussion.<br/>
+🧑‍🔧 **Collaborate** - Exhaustive test suites, backed by State-of-the-Art ML research. <br/>
+🤖 **Automatically test & monitor** - Protect your ML models against the risk of regressions, drift and bias.<br/>
 
 <p>
   <img width='600' src="readme/perturbation.png" radius = 8px>
 </p>
 
-## Interactive demo
+# Interactive demo
 Click the image below to start the demo:
 
 <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
@@ -55,12 +59,14 @@ Click the image below to start the demo:
       </a>
 <br/>
 
-## Getting Started with Giskard
-### 🚀 Installation
+# Getting Started with Giskard
+## 🚀 Installation
 
 **Requirements:** `git`, `docker` and `docker-compose`
 
 ```sh
+pip istall giskard
+
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
 docker-compose up -d
@@ -74,7 +80,7 @@ Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
 3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
 
 
-### 🏄🏽‍♂️ Workflow
+## 🏄🏽‍♂️ Workflow
 1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. Play with the model to test its performance. 
 
 <p align="center">
@@ -114,7 +120,7 @@ Test the absence of concept drift inside your model</details>
 
 
 
-## Guides: Jump right in
+# Guides: Jump right in
 Follow our handy guides to get started on the basics as quickly as possible:
 
 1. <a href="guides/installation.md"><b>installation.md</b></a>
@@ -123,10 +129,10 @@ Follow our handy guides to get started on the basics as quickly as possible:
 4. <a href="guides/create-tests-from-your-review.md"><b>create-tests-from-your-review.md</b></a>
 
 
-## How to contribute
+# How to contribute
 We welcome contributions from the Machine Learning community!
 
 Read this [guide](CONTRIBUTING.md) to get started.
 
-## Like what we're doing?
+# Like what we're doing?
 Leave us a 🌟, it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools ! 🎉
