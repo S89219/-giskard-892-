@@ -28,15 +28,13 @@
 <br />
 
 # About Giskard
-- Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
+Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
 
-- Giskard allows to **instantly see model's prediction** to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
+Giskard allows to instantly see model's prediction to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
 
-- Saw anything strange? Leave a **feedback** directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
+Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
 
-- Giskard enables you to create **test suites** on AI models. It provides presets of tests so that you design and execute your tests in no time.
-
-- And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools. ⤵️ <br/>
+And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools. ⤵️ <br/>
 <p>
   <img width='600' src="readme/tools.png">
 </p>
@@ -44,15 +42,20 @@
 
 # Why use Giskard
 ### Inspect the model's performance
-- instantly see model's prediction** to a given set of feature values
+- instantly see model's prediction to a given set of feature values
 - change the values directly in Giskard and see the changed prediction
 - works with any type of models, datasets and environments. 
-<br/>
 
 ### Collaborate with business stakeholders
-- Exhaustive test suites, backed by State-of-the-Art ML research. 
-- Collaborate with business stakeholders with direct feedback & discussion.<br/>
-🤖 **Automatically test & monitor** - Protect your ML models against the risk of regressions, drift and bias.<br/>
+- leave notes and tag teammates directly within the Giskard interface
+- use discussion threads to have all information centralized for easier follow up and decision making
+-  enjoy Giskard's super-intuitive design, made with both tech and business users in mind.
+
+
+### Automatically test & monitor
+- turn the collected feedback into executable tests for safe deployment. Giskard provides presets of tests so that you design and execute your tests in no time.
+- get actionable alerts on AI model bugs in production
+- protect your ML models against the risk of regressions, drift and bias.<br/>
 
 <p>
   <img width='600' src="readme/perturbation.png" radius = 8px>
