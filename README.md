@@ -79,7 +79,7 @@ Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
 2. <a href="guides/configuration.md"><b>configuration.md</b></a>
 3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
 
-
+<br/>
 ## 🏄🏽‍♂️ Workflow
 1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. Play with the model to test its performance. 
 
@@ -135,4 +135,4 @@ We welcome contributions from the Machine Learning community!
 Read this [guide](CONTRIBUTING.md) to get started.
 
 # Like what we're doing?
-Leave us a 🌟, it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools ! 🎉
+🌟 [Leave us a star](https://github.com/ManeSah/giskard), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
