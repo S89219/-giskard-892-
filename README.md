@@ -74,7 +74,7 @@ And of course, Giskard works with any model, any environment and integrates seem
   <img width='600' src="readme/feedback1.png">
 </p>
 
-3. **Turn feedback into tests:** Use Giskard test presets to design and execute your tests in no time
+3. **Turn feedback into tests:** Use Giskard test presets to design and execute your tests in no time.
 
 <p align="center">
   <img width='600' src="readme/test1.png">
@@ -107,6 +107,9 @@ Play with Giskard before installing! Click the image below to start the demo:
 <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
          <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
       </a>
+
+You can also check out the [product tour video](https://www.youtube.com/watch?v=D4p69FpxslI&ab_channel=Giskard) for a deep dive into features and use-cases.
+
 <br/>
 <br/>
 
