@@ -110,7 +110,7 @@ Play with Giskard before installing! Click the image below to start the demo:
 
 <br/>
 
-You can also check out the [product tour video](https://www.youtube.com/watch?v=D4p69FpxslI&ab_channel=Giskard) for a deep dive into features and use-cases.
+<!--- You can also check out the [product tour video](https://www.youtube.com/watch?v=D4p69FpxslI&ab_channel=Giskard) for a deep dive into features and use-cases. --->
 
 
 <br/>
