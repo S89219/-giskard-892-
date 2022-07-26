@@ -110,9 +110,7 @@ Play with Giskard before installing! Click the image below to start the demo:
 
 # Getting Started with Giskard
 ## 🚀 Installation
-
 **Requirements:** `git`, `docker` and `docker-compose`
-
 ```sh
 pip istall giskard
 
@@ -121,25 +119,31 @@ cd giskard
 docker-compose up -d
 ```
 
-Thats' it. Access at http://localhost:19000 with login/password: admin/admin.
+That's it. Access at http://localhost:19000 with login/password: admin/admin.
 <br/>
 
 ## 🥋 Guides: Jump right in
 Follow our handy guides to get started on the basics as quickly as possible:
 
-1. <a href="guides/installation.md"><b>installation.md</b></a>
-2. <a href="guides/configuration.md"><b>configuration.md</b></a>
-3. <a href="guides/upload-your-model.md"><b>upload-your-model.md</b></a>
-4. <a href="guides/review-your-model.md"><b>review-your-model.md</b></a>
-5. <a href="guides/create-tests-from-your-review.md"><b>create-tests-from-your-review.md</b></a>
-
+1. <a href="https://github.com/Giskard-AI/giskard-doc/blob/main/guides/installation.md"><b>installation.md</b></a>
+2. <a href="https://github.com/Giskard-AI/giskard-doc/blob/main/guides/configuration.md"><b>configuration.md</b></a>
+3. <a href="https://github.com/Giskard-AI/giskard-doc/blob/main/guides/upload-your-model.md"><b>upload-your-model.md</b></a>
+4. <a href="https://github.com/Giskard-AI/giskard-doc/blob/main/guides/review-your-model.md"><b>review-your-model.md</b></a>
+5. <a href="https://github.com/Giskard-AI/giskard-doc/blob/main/guides/create-tests-from-your-review.md"><b>create-tests-from-your-review.md</b></a>
 <br />
+
+# 🪄Become a Giskard Design Partner
+As our product is young, working in close collaboration with our first users is very important to identify what to improve, and how we can deliver value. It needs to be a Win-Win scenario!
+<p>
+  <img width='600' src="readme/design-partner.png">
+</p>
+
+If you are interested to join our Design Partner program, drop us a line at hello@giskard.ai. ❗️The final entry date is September 2022!
 
 # How to contribute
 We welcome contributions from the Machine Learning community!
 
 Read this [guide](CONTRIBUTING.md) to get started.
-
 <br />
 
 # Like what we're doing?
