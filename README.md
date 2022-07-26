@@ -108,6 +108,7 @@ Play with Giskard before installing! Click the image below to start the demo:
          <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
       </a>
 <br/>
+
 You can also check out the [product tour video](https://www.youtube.com/watch?v=D4p69FpxslI&ab_channel=Giskard) for a deep dive into features and use-cases.
 
 
