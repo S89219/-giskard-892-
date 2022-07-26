@@ -56,9 +56,9 @@ And of course, Giskard works with any model, any environment and integrates seem
 - receive actionable alerts on AI model bugs in production
 - protect your ML models against the risk of regressions, drift and bias.<br/>
 
-<p>
+<!--- <p>
   <img width='600' src="readme/perturbation.png" radius = 8px>
-</p>
+</p> --->
 <br />
 
 # 🏄🏽‍♂️ Workflow
@@ -106,6 +106,7 @@ Play with Giskard before installing! Click the image below to start the demo:
 <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
          <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
       </a>
+
 <br/>
 
 # Getting Started with Giskard
@@ -120,6 +121,7 @@ docker-compose up -d
 ```
 
 That's it. Access at http://localhost:19000 with login/password: admin/admin.
+
 <br/>
 
 ## 🥋 Guides: Jump right in
@@ -135,7 +137,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 # 🪄Become a Giskard Design Partner
 As our product is young, working in close collaboration with our first users is very important to identify what to improve, and how we can deliver value. It needs to be a Win-Win scenario!
 <p>
-  <img width='600' src="readme/design-partner.png">
+  <img width='600' src="readme/design_partner.png">
 </p>
 
 If you are interested to join our Design Partner program, drop us a line at hello@giskard.ai. ❗️The final entry date is September 2022!
