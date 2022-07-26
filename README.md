@@ -29,11 +29,11 @@
 # About Giskard
 **Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.**
 
-Giskard allows to instantly see model's prediction to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
+Giskard lets you instantly see your model's prediction for a given set of feature values. You can set the values directly in Giskard and see the prediction change. 
 
-Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use!👌
+Saw anything strange? Leave a feedback directly within Giskard, so that your team can explore the query that generated the faulty result. Designed for both tech and business users, Giskard is super intuitive to use! 👌
 
-And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools⤵️ <br/>
+And of course, Giskard works with any model, any environment and integrates seemlessly with your favorite tools ⤵️ <br/>
 <p>
   <img width='600' src="readme/tools.png">
 </p>
@@ -41,20 +41,20 @@ And of course, Giskard works with any model, any environment and integrates seem
 
 # Why use Giskard
 ### Inspect the model's performance
-- instantly see model's prediction to a given set of feature values
-- change the values directly in Giskard and see the changed prediction
-- works with any type of models, datasets and environments. 
+- instantly see the model's prediction for a given set of feature values
+- change the values directly in Giskard and see the prediction change
+- works with any type of models, datasets and environments 
 
 ### Collaborate with business stakeholders
 - leave notes and tag teammates directly within the Giskard interface
-- use discussion threads to have all information centralized for easier follow up and decision making
--  enjoy Giskard's super-intuitive design, made with both tech and business users in mind.
+- use discussion threads to have all information centralized for easier follow-up and decision making
+-  enjoy Giskard's super-intuitive design, made with both tech and business users in mind
 
 
 ### Automatically test & monitor
-- turn the collected feedback into executable tests for safe deployment. Giskard provides presets of tests so that you design and execute your tests in no time.
+- turn the collected feedback into executable tests for safe deployment. Giskard provides presets of tests so that you design and execute your tests in no time
 - receive actionable alerts on AI model bugs in production
-- protect your ML models against the risk of regressions, drift and bias.<br/>
+- protect your ML models against the risk of regressions, drift and bias<br/>
 
 <!--- <p>
   <img width='600' src="readme/perturbation.png" radius = 8px>
@@ -62,7 +62,7 @@ And of course, Giskard works with any model, any environment and integrates seem
 <br />
 
 # 🏄🏽‍♂️ Workflow
-1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, Transformers, Scikit-learn, etc. Play with the model to test its performance. 
+1. **Explore your ML model:** Easily upload any Python model: PyTorch, TensorFlow, 🤗 Transformers, Scikit-learn, etc. Play with the model to test its performance. 
 
 <p align="center">
   <img width='600' src="readme/Give_feedback.jpeg">
@@ -74,12 +74,13 @@ And of course, Giskard works with any model, any environment and integrates seem
   <img width='600' src="readme/feedback1.png">
 </p>
 
-3. **Turn feedback into tests:** Automate tests in any of the categories below.
+3. **Turn feedback into tests:** Use Giskard test presets to design and execute your tests in no time
 
 <p align="center">
   <img width='600' src="readme/test1.png">
 </p>
 
+Giskard lets you automate tests in any of the categories below:
 <details>
   <summary><b>Metamorphic testing</b></summary>
 Test if your model outputs behave as expected before and after input perturbation
@@ -136,7 +137,9 @@ As our product is young, working in close collaboration with our first users is 
   <img width='600' src="readme/design_partner.png">
 </p>
 
-If you are interested to join our Design Partner program, drop us a line at hello@giskard.ai. ❗️The final entry date is September 2022 ❗️
+If you are interested in joining our Design Partner program, drop us a line at hello@giskard.ai.
+
+❗️ The final entry date is September 2022 ❗️
 
 <br />
 
