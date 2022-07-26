@@ -106,7 +106,7 @@ Play with Giskard before installing! Click the image below to start the demo:
 <a align='center' href="https://app.arcade.software/share/zPfpXFt8lRm5XDkaWM85" target="_blank">
          <img width='600' align='center' alt="Interactive demo" src="readme/demo.png">
       </a>
-
+<br/>
 <br/>
 
 # Getting Started with Giskard
@@ -119,8 +119,6 @@ docker-compose up -d
 ```
 
 That's it. Access at http://localhost:19000 with login/password: admin/admin.
-
-<br/>
 
 ## 🥋 Guides: Jump right in
 Follow our handy guides to get started on the basics as quickly as possible:
