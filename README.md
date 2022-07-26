@@ -27,7 +27,7 @@
 <br />
 
 # About Giskard
-Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.
+**Giskard creates interfaces for humans to inspect AI models. It is  open-source & self-hosted.**
 
 Giskard allows to instantly see model's prediction to a given set of feature values. You can change the values directly in Giskard and see the changed prediction. 
 
@@ -113,8 +113,6 @@ Play with Giskard before installing! Click the image below to start the demo:
 ## 🚀 Installation
 **Requirements:** `git`, `docker` and `docker-compose`
 ```sh
-pip istall giskard
-
 git clone https://github.com/Giskard-AI/giskard.git
 cd giskard
 docker-compose up -d
@@ -140,12 +138,15 @@ As our product is young, working in close collaboration with our first users is 
   <img width='600' src="readme/design_partner.png">
 </p>
 
-If you are interested to join our Design Partner program, drop us a line at hello@giskard.ai. ❗️The final entry date is September 2022!
+If you are interested to join our Design Partner program, drop us a line at hello@giskard.ai. ❗️The final entry date is September 2022 ❗️
+
+<br />
 
 # How to contribute
 We welcome contributions from the Machine Learning community!
 
 Read this [guide](CONTRIBUTING.md) to get started.
+
 <br />
 
 # Like what we're doing?
