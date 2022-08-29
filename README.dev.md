@@ -11,6 +11,7 @@ TODO: rewrite this README from scratch.
 * [Poetry](https://python-poetry.org/) for Python package and environment management
 
 ## Frontend Requirements
+<img width="1005" alt="Screenshot 2022-08-29 at 17 05 22" src="https://user-images.githubusercontent.com/92525773/187233516-74708e8c-91ce-4789-b0c1-c0af084028ff.png">
 
 * Node.js (with `npm`).
 
